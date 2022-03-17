@@ -1,0 +1,1087 @@
+[
+    {
+        "id":"English-Cake-Slices-Plate",
+        "title":"English Cake Slices Plate",
+        "category": "Pastries-and-Desserts",
+        "unit_measure": "small",
+        "discount": "31",
+        "price":"13.95",
+        "price_before": "19.95",
+        "sold_by": "Grocery",
+        "description": "Beautifully moist, fresh and ready sliced, our English Cake comes on a plate and is always popular. Pop it into a lunchbox or keep for an after school snack, kids love it at any time of day. Is it on your grocery Spinneys shopping list already?",
+        "more_description": [
+            "Freshly baked.",
+            "Fresh and moist.",
+            "Satisfies your sweet tooth.",
+            "For all the family.",
+            "Delivered cooled."
+        ],
+        "images": [
+            "01.jpg",
+            "02.jpg"
+        ]
+    },
+    {
+        "id":"English-Cake-Mix-Slices-Plate-by-plate",
+        "title": "English Cake Mix Slices Plate, by plate",
+        "category": "Pastries-and-Desserts",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"32.95",
+        "price_before": "32.95",
+        "sold_by": "Grocery",
+        "description": "Keep the family happy by having a stock of English Cake Mix ready in the cupboard. So easy to make, it is a guaranteed crowd pleaser. Pick up a packet or two when you pass by the supermarket.",
+        "more_description": [
+            "Freshly baked.",
+            "Satisfies your sweet tooth.",
+            "Delivered cooled."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Medium-Half-and-Half-Cake",
+        "title": "Medium Half and Half Cake",
+        "category": "Pastries-and-Desserts",
+        "unit_measure": "small",
+        "discount": "36",
+        "price":"89.95",
+        "price_before": "139.95",
+        "sold_by": "Grocery",
+        "description": "Tea for two? Serve up Spinneys' Small Half and Half Cake for mouthfuls of chocolate and vanilla heaven. Fresh as can be, and light as a feather, this a treat to share with those you love. From Spinneys supermarket distinguished bakery.",
+        "more_description": [
+            "Freshly baked.",
+            "Happiness mix with chocolate and cream flavors.",
+            "Rich taste and light topping."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Half-and-Half-Cake-Large-by-piece",
+        "title": "Half and Half Cake Large, by piece",
+        "category": "Pastries-and-Desserts",
+        "unit_measure": "large",
+        "discount": "0",
+        "price":"189.95",
+        "price_before": "189.95",
+        "sold_by": "Grocery",
+        "description": "Vanilla or chocolate, or a bit of both? Spinneys' Large Half and Half Cake can be shared by the whole family, with some left over for later. Moist, rich and fresh from the oven, you won't be able to say no. Essential for birthdays and office celebrations. Perfect for sudden celebrations shopping from supermarket. From Spinneys supermarket distinguished bakery.",
+        "more_description": [
+            "Fresh fruits topping.",
+            "Perfect birthday treat.",
+            "Cream and chocolate lovers.",
+            "Freshly baked."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Season-Mix-Fruit-Cake-Medium-by-piece",
+        "title": "Season Mix Fruit Cake Medium, by piece",
+        "category": "Pastries-and-Desserts",
+        "unit_measure": "1 pc",
+        "discount": "0",
+        "price":"139.95",
+        "price_before": "139.95",
+        "sold_by": "Grocery",
+        "description": "Keep everyone happy with a Season Mix Fruit Cake Medium with Mix fruits in every slice will have you begging for more. Not just for a special occasion, this could be a family treat any day of the week. Head down to your supermarket now. Freshly baked in Spinneys delicious bakery. Delivered to you fresh from Spinneys online supermarket. -Spinneys supermarket distinguished bakery.",
+        "more_description": [
+            "High quality.",
+            "Delicious dessert.",
+            "Delivered cooled."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Vienna-Bread-2-Pieces",
+        "title": "Vienna Bread, 2 Pieces",
+        "category": "Bread",
+        "unit_measure": "2 pc",
+        "discount": "0",
+        "price":"7.95",
+        "price_before": "7.95",
+        "sold_by": "Grocery",
+        "description": "Finely milled enriched flour makes Vienna Bread a special treat from Spinneys. The glossy soft crust and rich texture make it a great choice for sandwiches with a sweet filling. We suggest trying it with chopped walnuts and fresh dates.",
+        "more_description": [
+            "Freshly baked.",
+            "Fresh and healthy.",
+            "High nutrition facts."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Italian-Bread-Large-per-piece",
+        "title": "Italian Bread Large, per piece",
+        "category": "Bread",
+        "unit_measure": "1 pc",
+        "discount": "0",
+        "price":"8.95",
+        "price_before": "8.95",
+        "sold_by": "Grocery",
+        "description": "Crusty and mouthwateringly good, our Large Italian Bread is big enough to keep the whole family happy. With its distinctive aroma and light touch of olive oil, it brings the taste of Italy to any meal. Put this at the top of your Spinneys shopping list.",
+        "more_description": [
+            "Freshly baked.",
+            "Full of fibers.",
+            "For all meals"
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Bun-Bread-pack-of-5-pieces",
+        "title": "Bun Bread, pack of 5 pieces",
+        "category": "Bread",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"9.95",
+        "price_before": "9.95",
+        "sold_by": "Grocery",
+        "description": "Bun Bread is just the right size for burger. Fresh and rich with that freshly baked aroma. From Spinneys supermarket distinguished bakery.",
+        "more_description": [
+            "Convenient size.",
+            "5 loafs per pack.",
+            "Freshly baked."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"French-Baguette",
+        "title": "French Baguette",
+        "category": "Bread",
+        "unit_measure": "1 pc",
+        "discount": "0",
+        "price":"6.95",
+        "price_before": "6.95",
+        "sold_by": "Grocery",
+        "description": "Fresh from the oven, with a crusty exterior that just begs to be torn into, our French Baguette takes bread to a divine level. Great for sandwiches, you can let your creative imagination combine your own choice of exciting fillings. Don’t leave the supermarket without it! Freshly baked in Spinneys delicious bakery.",
+        "more_description": [
+            "Freshly backed.",
+            "High quality.",
+            "With a crusty exterior."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Bread-Crumbs-Bag-500g",
+        "title": "Bread Crumbs Bag, 500g",
+        "category": "Bread",
+        "unit_measure": "500 g",
+        "discount": "0",
+        "price":"9.95",
+        "price_before": "9.95",
+        "sold_by": "Grocery",
+        "description": "BREAD RUSK from SPINNEYS to use with all your fried meals, you can use it with chicken or fish to fry and get the golden crunchy look, it should be a part of your grocery Spinneys shopping.",
+        "more_description": [
+            "Fresh and healthy.",
+            "Great for frayed foods.",
+            "Delivered cooled."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Kiwi-1-Kg",
+        "title": "Kiwi, 1 Kg",
+        "category": "Fruits",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"39.95",
+        "price_before": "39.95",
+        "sold_by": "Grocery",
+        "description": "Nutrient rich Kiwi fruit, with a full daily allowance of Vitamin C. Slice it, dice it, eat alone or add to salads or smoothies for a fresh, exciting flavor. Don't forget to add it to your shopping cart from Spinneys supermarket.",
+        "more_description": [
+            "Rich in vitamins.",
+            "Nutrition for the whole family.",
+            "Super source of Vitamin C."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Golden-Apple-1-Kg",
+        "title": "Golden Apple, 1 Kg",
+        "category": "Fruits",
+        "unit_measure": "kg",
+        "discount": "18",
+        "price":"22.95",
+        "price_before": "27.95",
+        "sold_by": "Grocery",
+        "description": "Golden apples, sweet and crunchy. Just right for popping into a lunch box or adding interest to a creative salad. Don't forget to add it to to your shopping cart when you shop for your groceries from Spinneys supermarket.",
+        "more_description": [
+            "Good addition to a healthy diet.",
+            "Sweet and crunchy."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Green-Apple-Fresh-by-weight",
+        "title": "Green Apple, Fresh, by weight",
+        "category": "Fruits",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"36.95",
+        "price_before": "36.95",
+        "sold_by": "Grocery",
+        "description": "Imported green apples, sweet and crunchy. Just right for popping into a lunch box or adding interest to a creative salad. Add it to your shopping cart from Spinneys super market.",
+        "more_description": [
+            "Good addition to a healthy diet.",
+            "More fibers and pottasium.",
+            "Sour and crunchy."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Chilean-Watermelon-1-Kg",
+        "title": "Chilean-Watermelon-1-Kg",
+        "category": "Fruits",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"8.95",
+        "price_before": "8.95",
+        "sold_by": "Grocery",
+        "description": "Watermelon is a delicious fruit soaked with nutrients, As it contains more nutrients and vitamins than any other fruit or vegetables A, B6 and C, and a lot of lycopene, antioxidants and amino acids, it contains only 46 calories per cup and is one of the selected sources at Spinneys supermarket. - Contains Nutrients and Beneficial Plant Compounds - Contains Compounds That May Help Prevent Cancer - Lower Inflammation and Oxidative Stress",
+        "more_description": [
+            "Good addition to a healthy diet.",
+            "More fibers and pottasium.",
+            "Sour and crunchy."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Lemon-Adalia-1-Kg",
+        "title": "Lemon Adalia, 1 Kg",
+        "category": "Fruits",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"5.95",
+        "price_before": "5.95",
+        "sold_by": "Grocery",
+        "description": "Lemon Adalia",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Potatoes-1-Kg",
+        "title": "Potatoes, 1 Kg",
+        "category": "Vegetables",
+        "unit_measure": "kg",
+        "discount": "13",
+        "price":"6.95",
+        "price_before": "7.95",
+        "sold_by": "Grocery",
+        "description": "New season potatoes for making perfect fries or as an accompaniment to your favorite dishes. Available in convenient family sized packs.",
+        "more_description": [
+            "Family favorite carbs.",
+            "Making perfect fries"
+        ],
+        "images": [
+            "01.webp",
+            "02.webp"
+        ]
+    },
+    {
+        "id":"Green-Capsicum-1-Kg",
+        "title": "Green Capsicum, 1 Kg",
+        "category": "Vegetables",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"21.95",
+        "price_before": "21.95",
+        "sold_by": "Grocery",
+        "description": "Local green capsicum, bursting with Vitamin C and other nutrients. Add to salads, casseroles and pasta dishes any day of the week for color and flavor. Choose your favorite vegetables from Spinneys supermaret.",
+        "more_description": [
+            "Perfect for salads and pastas.",
+            "Rich with nutrients and vitamins.",
+            "Favorite for all family."
+        ],
+        "images": [
+            "01.webp",
+            "02.webp"
+        ]
+    },
+    {
+        "id":"Cucumber-1-Kg",
+        "title": "Cucumber, 1 Kg",
+        "category": "Vegetables",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"21.95",
+        "price_before": "21.95",
+        "sold_by": "Grocery",
+        "description": "A dieter’s best friend, cucumber works superbly in any salad recipe, as an accompaniment for favorite dips and even as a quick snack. High in water content, it is refreshing, hydrating and can aid in weight loss. House vegetable essentials.",
+        "more_description": [
+            "Good source of vitamin C, potassium, and fiber.",
+            "Contain antioxidants that help boost immunity.",
+            "Low calories."
+        ],
+        "images": [
+            "01.webp",
+            "02.webp"
+        ]
+    },
+    {
+        "id":"Coriander-100-gm",
+        "title": "Coriander, 100 gm",
+        "category": "Vegetables",
+        "unit_measure": "100 g",
+        "discount": "0",
+        "price":"3.25",
+        "price_before": "3.25",
+        "sold_by": "Grocery",
+        "description": "Coriander, 100 gm",
+        "more_description": [],
+        "images": [
+            "01.webp"
+        ]
+    },
+    {
+        "id":"Red-Cabbage",
+        "title": "Red Cabbage",
+        "category": "Vegetables",
+        "unit_measure": "1 pc",
+        "discount": "0",
+        "price":"8.95",
+        "price_before": "8.95",
+        "sold_by": "Grocery",
+        "description": "Cooked or raw in salads, red cabbage is an important source of fiber and essential nutrients like A, B6, C and K Vitamins, potassium, thiamine and riboflavin. Boost your bone strength and immune system with this healthy vegetable.",
+        "more_description": [
+            "Stronger flavor than that of green cabbage.",
+            "Rich in dietary antioxidants.",
+            "Good digestive aids."
+        ],
+        "images": [
+            "01.webp",
+            "02.webp"
+        ]
+    },
+    {
+        "id":"Beef-Entrecote-Balady",
+        "title": "Beef Entrecote Balady",
+        "category": "Meat",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"196.95",
+        "price_before": "196.95",
+        "sold_by": "Grocery",
+        "description": "Make any day a special treat with our fresh local beef entrecote. Tender, juicy and full of flavor, it is perfect for barbecues, or simply grilled or fried. Add fries and a salad and you have a meal to remember.",
+        "more_description": [
+            "Nutrition for the whole family.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Kofta-Balady",
+        "title": "Kofta Balady",
+        "category": "Meat",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"124.75",
+        "price_before": "124.75",
+        "sold_by": "Grocery",
+        "description": "Seasoned to deliver loads of flavor, protein packed balady beef kofta team up nicely with salads, rice, fries, dips and your favorite vegetables. In fact, they are so versatile you can use them to create delicious dishes day after day.",
+        "more_description": [
+            "Rich seasoning.",
+            "Protein packed.",
+            "For versatile recipes.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Beef-Cubes-No-Fat-Balady",
+        "title": "Beef Cubes No Fat Balady",
+        "category": "Meat",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"192.95",
+        "price_before": "192.95",
+        "sold_by": "Grocery",
+        "description": "Lean, fat-free beef cubes for getting essential protein in so many ways. Great for diets, you can create currries, casseroles and so much more, without worrying about too many calories.",
+        "more_description": [
+            "Nutrition for the whole family.",
+            "Delivered chilled.",
+            "Great for diets."
+        ],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Burger-Balady",
+        "title": "Burger Balady",
+        "category": "Meat",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"119.75",
+        "price_before": "119.75",
+        "sold_by": "Grocery",
+        "description": "Handy for meals in a hurry, popular with the whole family, juicy beef balady burgers deliver protein galore, and can be used in so many ways. Serve with salad and fries, throw them in a bun with your favorite sauce, they can be fried or grilled in minutes. High quality Spinneys ingredients.",
+        "more_description": [
+            "For quick preparation.",
+            "Served grilled or fried.",
+            "Children's favorite meal.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Special-Beef-Burger-Balady-1-Kg",
+        "title": "Special Beef Burger Balady, 1 Kg",
+        "category": "Meat",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"149.95",
+        "price_before": "149.95",
+        "sold_by": "Grocery",
+        "description": "Special Beef Burger Balady",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Marinated-Chicken-Drumstick-1-Kg",
+        "title": "Marinated Chicken Drumstick, 1 Kg",
+        "category": "Poultry",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"85.95",
+        "price_before": "85.95",
+        "sold_by": "Grocery",
+        "description": "Ready marinated with rich spicy flavors, our chicken drumsticks are a treat for the whole family. Simply grill or fry to make an easy meal that will have them coming back for more.",
+        "more_description": [
+            "Nutrition for the whole family.",
+            "Perfect for quick lunch.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.webp"
+        ]
+    },
+    {
+        "id":"Whole-Chicken-900-1100-Fresh-by-weight",
+        "title": "Whole Chicken 900-1100, Fresh, by weight",
+        "category": "Poultry",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"63.95",
+        "price_before": "63.95",
+        "sold_by": "Grocery",
+        "description": "Low in calories but big on flavor, clean and fresh chicken can be prepared in so many ways. Budget-friendly and always popular with the kids, it goes with everything. Ranging in size from 900g to 1100g.",
+        "more_description": [
+            "Nutrition for the whole family.",
+            "Delivered chilled.",
+            "Low in calories."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Chicken-Shawarma-Fresh-1-Kg",
+        "title": "Chicken Shawarma, Fresh, 1 Kg",
+        "category": "Poultry",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"122.95",
+        "price_before": "122.95",
+        "sold_by": "Grocery",
+        "description": "Everyone's favorite, a crowd-pleaser at any meal. Ready seasoned and prepared in a flash, tender slivers of chicken that just need warm bread and your choice of salads.",
+        "more_description": [
+            "Nutrition for the whole family.",
+            "Delivered chilled.",
+            "Ready seasoned and prepared in a flash, tender slivers."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Raw-Chicken-Breast-Fillets-1-Kg",
+        "title": "Raw Chicken Breast Fillets, 1 Kg",
+        "category": "Poultry",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"85.95",
+        "price_before": "85.95",
+        "sold_by": "Grocery",
+        "description": "Ready to cook, Raw Chicken Breast Fillets has the traditional taste that will make it a family favorite. Lean and protein-packed, it is a dieter’s dream, with energy-boosting goodness and few calories.",
+        "more_description": [
+            "Great Marinated.",
+            "High protein.",
+            "Low-calorie meal.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Marinated-Tawook-1-Kg",
+        "title": "Marinated Tawook, 1 Kg",
+        "category": "Poultry",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"99.95",
+        "price_before": "99.95",
+        "sold_by": "Grocery",
+        "description": "Ready to pop straight onto the grill, Marinated Shish Tawook has the traditional taste that will make it a family favorite. Lean and protein-packed, it is a dieter’s dream, with energy-boosting goodness and few calories. Don't forget to add it to your cart in Spinneys Supermarket. Spinneys selected quality products.",
+        "more_description": [
+            "Great Marinated.",
+            "High protein.",
+            "Low-calorie meal.",
+            "Delivered chilled."
+        ],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"El-Doha-Rice-1-Kg",
+        "title": "El Doha Rice, 1 Kg",
+        "category": "Rice",
+        "unit_measure": "kg",
+        "discount": "17",
+        "price":"16.25",
+        "price_before": "19.50",
+        "sold_by": "Grocery",
+        "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
+        "more_description": [
+            "High quality.",
+            "Nutritious value.",
+            "Grocery essentials."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Doha-Rice-5-Kg",
+        "title": "El Doha Rice, 5 Kg",
+        "category": "Rice",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"82.95",
+        "price_before": "82.95",
+        "sold_by": "Grocery",
+        "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
+        "more_description": [
+            "High quality.",
+            "Nutritious value.",
+            "Grocery essentials."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Doha-Rice-10-Kg",
+        "title": "El Doha Rice, 10 Kg",
+        "category": "Rice",
+        "unit_measure": "kg",
+        "discount": "0",
+        "price":"170.95",
+        "price_before": "170.95",
+        "sold_by": "Grocery",
+        "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
+        "more_description": [
+            "High quality.",
+            "Nutritious value.",
+            "Grocery essentials."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Al-Doha-Golden-Rice-1kg",
+        "title": "Al-Doha Golden Rice, 1kg",
+        "category": "Rice",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"34.95",
+        "price_before": "34.95",
+        "sold_by": "Grocery",
+        "description": "Premium low-carb, golden rice, suitable for diet and healthy lifestyles. Al-Doha is known for its non-sticky, firm, long-grained pearly rice. It is rich in flavor, and stands out for its fine texture.",
+        "more_description": [
+            "Premium quality rice.",
+            "Perfect for Arabian and Spanish dishes.",
+            "Idel for low carbs diet."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Shahy-White-Rice-5-Kg",
+        "title": "Shahy White Rice, 5 Kg",
+        "category": "Rice",
+        "unit_measure": "kg",
+        "discount": "14",
+        "price":"68.75",
+        "price_before": "79.95",
+        "sold_by": "Grocery",
+        "description": "Shahy White Rice",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Doha-Brown-Lentils-500-Gm",
+        "title": "El Doha Brown Lentils, 500 Gm",
+        "category": "Pulses-and-Grains",
+        "unit_measure": "500 g",
+        "discount": "12",
+        "price":"25.25",
+        "price_before": "28.50",
+        "sold_by": "Grocery",
+        "description": "Natural dry whole brown lentils form Al Doha, ready to cook your favorite brown lentils recipes or boil it to Egyptian tasty Koshari dish. It features all legume benefits with the delicious taste. Don't forget to add it to your cart in Spinneys.",
+        "more_description": [
+            "Excellent Packaging.",
+            "Grocery basics.",
+            "High Nutritional Value."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Doha-White-Beans-500-Gm",
+        "title": "El Doha White Beans, 500 Gm",
+        "category": "Pulses-and-Grains",
+        "unit_measure": "500 g",
+        "discount": "0",
+        "price":"20.93",
+        "price_before": "20.93",
+        "sold_by": "Grocery",
+        "description": "White beans from El Doha are carefully selected you can get from the supermarket, to help you prepare the perfect white beans dishes. The premium quality in every single grain gives you the peace of mind to prepare the best dishes for your family. Essential item in every house groceries.",
+        "more_description": [
+            "Carefully selected white beans.",
+            "Grocery basics.",
+            "500g Package."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Egyptian-Fava-Beans-350-gm",
+        "title": "El Matbakh Egyptian Fava Beans, 350 gm",
+        "category": "Pulses-and-Grains",
+        "unit_measure": "350 g",
+        "discount": "0",
+        "price":"14.25",
+        "price_before": "14.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Fava Beans",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Doha-Black-Eyes-Beans-500-g",
+        "title": "El Doha Black Eyes Beans, 500 g",
+        "category": "Pulses-and-Grains",
+        "unit_measure": "500 g",
+        "discount": "0",
+        "price":"30.25",
+        "price_before": "30.25",
+        "sold_by": "Grocery",
+        "description": "500 grams of pure beans full of fiber and protein for a healthy body, and perfectly suited for diet because it's cholesterol-free. Order it now from Spinneys and get a delicious and useful meal with ease.",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Al-Doha-Dried-Molokhia-130-g",
+        "title": "Al Doha Dried Molokhia, 130 g",
+        "category": "Pulses-and-Grains",
+        "unit_measure": "130 g",
+        "discount": "0",
+        "price":"9.25",
+        "price_before": "9.25",
+        "sold_by": "Grocery",
+        "description": "Al Doha Dried Molokhia.",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Pasta-Rice-400-Gm",
+        "title": "El Matbakh Pasta Rice, 400 Gm",
+        "category": "Pasta",
+        "unit_measure": null,
+        "discount": "16",
+        "price":"5.25",
+        "price_before": "6.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Pasta Rice",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Pasta-Elbow-400-Gm",
+        "title": "El Matbakh Pasta Elbow, 400 Gm",
+        "category": "Pasta",
+        "unit_measure": null,
+        "discount": "16",
+        "price":"5.25",
+        "price_before": "6.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Pasta Elbow",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Pasta-Small-Rings-400-Gm",
+        "title": "El Matbakh Pasta Small Rings, 400 Gm",
+        "category": "Pasta",
+        "unit_measure": null,
+        "discount": "16",
+        "price":"5.25",
+        "price_before": "6.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Pasta Small Rings",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Pasta-Rings-400-Gm",
+        "title": "El Matbakh Pasta Rings, 400 Gm",
+        "category": "Pasta",
+        "unit_measure": null,
+        "discount": "16",
+        "price":"5.25",
+        "price_before": "6.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Pasta Rings",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Matbakh-Pasta-Penne-400-Gm",
+        "title": "El Matbakh Pasta Penne, 400 Gm",
+        "category": "Pasta",
+        "unit_measure": null,
+        "discount": "16",
+        "price":"5.25",
+        "price_before": "6.25",
+        "sold_by": "Grocery",
+        "description": "El Matbakh Pasta Penne",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Dreem-Molten-Cake-400g",
+        "title": "Dreem Molten Cake, 400g",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"32.95",
+        "price_before": "32.95",
+        "sold_by": "Grocery",
+        "description": "Dreem offers a molten cake mix for easily making the tastiest molten cake with chocolate volcanoes. It is a convenient choice for most occasions, and it delivers a delightful, rich chocolate flavor.",
+        "more_description": [
+            "Fast prepare cake.",
+            "Rich chocolate flavor you can get from the supermarket.",
+            "Kids favorite."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Dream-Strawberry-Jelly-210-Gm",
+        "title": "Dream Strawberry Jelly, 210 Gm",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "210 g",
+        "discount": "15",
+        "price":"10.75",
+        "price_before": "12.50",
+        "sold_by": "Grocery",
+        "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
+        "more_description": [
+            "Original taste.",
+            "Smooth texture.",
+            "Easy to prepare."
+        ],
+        "images": [
+            "01.webp"
+        ]
+    },
+    {
+        "id":"Dreem-Chocolate-Muffin-Mix-450g",
+        "title": "Dreem Chocolate Muffin Mix, 450g",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "450 g",
+        "discount": "0",
+        "price":"36.75",
+        "price_before": "36.75",
+        "sold_by": "Grocery",
+        "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
+        "more_description": [
+            "Original taste.",
+            "Smooth texture.",
+            "Easy to prepare."
+        ],
+        "images": [
+            "01.webp"
+        ]
+    },
+    {
+        "id":"Dreem-Vanilla-Muffin-Mix-450g",
+        "title": "Dreem Vanilla Muffin Mix, 450g",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "450 g",
+        "discount": "0",
+        "price":"36.75",
+        "price_before": "36.75",
+        "sold_by": "Grocery",
+        "description": "With Dreem Vanilla Muffin Mix, 450 g, prepare delicious muffins for your children or your office parties. Pack includes 8 cupcake molds and chocolate chips. A Vanilla muffin with chocolate chips is children favorite. Serve with cream or with your afternoon tea for a nice treat. You can order it online from Spinneys supermarket.",
+        "more_description": [
+            "Serves 8 people.",
+            "8 molds inside the package.",
+            "chocolate chips inside the package."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Dreem-Strawberry-Jelly-70g",
+        "title": "Dreem Strawberry Jelly, 70g",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "70 g",
+        "discount": "0",
+        "price":"4.50",
+        "price_before": "4.50",
+        "sold_by": "Grocery",
+        "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
+        "more_description": [
+            "Original taste.",
+            "Smooth texture.",
+            "Easy to prepare."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Dreem-Strawberry-Jelly-70g",
+        "title": "Dreem Strawberry Jelly, 70g",
+        "category": "Homebake-and-Desserts",
+        "unit_measure": "70 g",
+        "discount": "0",
+        "price":"4.50",
+        "price_before": "4.50",
+        "sold_by": "Grocery",
+        "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
+        "more_description": [
+            "Original taste.",
+            "Smooth texture.",
+            "Easy to prepare."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Rashidi-El-Mizan-Halawa-1060-gm",
+        "title": "El Rashidi El Mizan Halawa, 1060 gm",
+        "category": "Jam-and-Spreads",
+        "unit_measure": "1.06 kg",
+        "discount": "0",
+        "price":"63.75",
+        "price_before": "18.50",
+        "sold_by": "Grocery",
+        "description": "El Rashidi El Mizan Halawa",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Vitrac-Jam-Mango-340g",
+        "title": "Vitrac Jam Mango , 340g",
+        "category": "Jam-and-Spreads",
+        "unit_measure": "320 g",
+        "discount": "0",
+        "price":"18.50",
+        "price_before": "18.50",
+        "sold_by": "Grocery",
+        "description": "Vitrac Jam Mango",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Rashidi-Mizan-Halawa-259-gm",
+        "title": "Rashidi Mizan Halawa, 259 gm",
+        "category": "Jam-and-Spreads",
+        "unit_measure": "295 g",
+        "discount": "0",
+        "price":"20.45",
+        "price_before": "20.45",
+        "sold_by": "Grocery",
+        "description": "Rashidi Mizan Halawa",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Bawadi-Tahina-285-g",
+        "title": "El Bawadi Tahina, 285 g",
+        "category": "Jam-and-Spreads",
+        "unit_measure": "285 g",
+        "discount": "0",
+        "price":"20.95",
+        "price_before": "20.95",
+        "sold_by": "Grocery",
+        "description": "El Bawadi Tahina, 285 g of high quality and original taste that makes you enjoy your day differently.",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"El-Rashidi-El-Mizan-Strawberry-Jam-340-gm",
+        "title": "El Rashidi El Mizan Strawberry Jam, 340 gm",
+        "category": "Jam-and-Spreads",
+        "unit_measure": "340 g",
+        "discount": "0",
+        "price":"14.95",
+        "price_before": "14.95",
+        "sold_by": "Grocery",
+        "description": "El Rashidi El Mizan Strawberry Jam",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Nestle-Low-Fat-Fitness-Cereal-375-gm",
+        "title": "Nestle Low Fat Fitness Cereal , 375 gm",
+        "category": "Breakfast-Cereal",
+        "unit_measure": "375 g",
+        "discount": "0",
+        "price":"62.25",
+        "price_before": "14.95",
+        "sold_by": "Grocery",
+        "description": "Enjoy Nestlé FITNESS® low fat cerreal flakes delicious crispy flakes. With wholegrain oats. It also contains B vitamins to give you nutritious energy . Suitable for low calories diet. Provides you with fibers and minerals for healthier diet.",
+        "more_description": [
+            "Diet breakfast favorite.",
+            "Suitable for low calories diet.",
+            "Source of fibers and minerals.",
+            "Store in a cool, dry place."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Temmy's-Bran-Flakes-250-gm",
+        "title": "Temmy's Bran Flakes, 250 gm",
+        "category": "Breakfast-Cereal",
+        "unit_measure": "250 g",
+        "discount": "0",
+        "price":"26.50",
+        "price_before": "26.50",
+        "sold_by": "Grocery",
+        "description": "Temmy's Bran Flakes",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Sante-Whole-Grain-Granola-Chocolate-350-g",
+        "title": "Sante-Whole-Grain-Granola-Chocolate-350-g",
+        "category": "Breakfast-Cereal",
+        "unit_measure": "350 g",
+        "discount": "0",
+        "price":"47.95",
+        "price_before": "47.95",
+        "sold_by": "Grocery",
+        "description": "Sante Whole Grain Granola Chocolate",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Lino-Muesli-Oats-Flakes-with-Fruits-Mix-Dried-375-g",
+        "title": "Lino Muesli Oats Flakes with Fruits Mix Dried, 375 g",
+        "category": "Breakfast-Cereal",
+        "unit_measure": "375 g",
+        "discount": "0",
+        "price":"58.25",
+        "price_before": "58.25",
+        "sold_by": "Grocery",
+        "description": "Lino Muesli Oats Flakes with Fruits Mix Dried",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Abu-Auf-Granola-Nuts-400-gm",
+        "title": "Abu Auf Granola Nuts, 400 gm",
+        "category": "Breakfast-Cereal",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"53.50",
+        "price_before": "53.50",
+        "sold_by": "Grocery",
+        "description": "Abu Auf Granola Nuts",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    }
+]

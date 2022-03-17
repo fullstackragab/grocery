@@ -1,0 +1,287 @@
+[
+    {
+        "id": "Bakery",
+        "title": "Bakery",
+        "parent": null
+    },
+    {
+        "id": "Fresh-Food",
+        "title": "Fresh Food",
+        "parent": null
+    },
+    {
+        "id": "Food-Cupboard",
+        "title": "Food Cupboard",
+        "parent": null
+    },
+    {
+        "id": "Cheese-Dairy-and-Eggs",
+        "title": "Cheese Dairy and Eggs",
+        "parent": null
+    },
+    {
+        "id": "Chilled-and-Frozen",
+        "title": "Chilled and Frozen",
+        "parent": null
+    },
+    {
+        "id": "Beverage",
+        "title": "Beverage",
+        "parent": null
+    },
+    {
+        "id": "Sweets-and-Snacks",
+        "title": "Sweets and Snacks",
+        "parent": null
+    },
+    {
+        "id": "Pastries-and-Desserts",
+        "title": "Pastries and Desserts",
+        "parent": "Bakery"
+    },
+    {
+        "id": "Bread",
+        "title": "Bread",
+        "parent": "Bakery"
+    },
+    {
+        "id": "Fruits-and-Vegetables",
+        "title": "Fruits and Vegetables",
+        "parent": "Fresh-Food"
+    },
+    {
+        "id": "Meat-and-Poultry",
+        "title": "Meat and Poultry",
+        "parent": "Fresh-Food"
+    },
+    {
+        "id": "Groceries",
+        "title": "Groceries",
+        "parent": "Food-Cupboard"
+    },
+    {
+        "id": "Breakfast-and-Spreads",
+        "title": "Breakfast and Spreads",
+        "parent": "Food-Cupboard"
+    },
+    {
+        "id": "Canned-and-Packed-Food",
+        "title": "Canned and Packed Food",
+        "parent": "Food-Cupboard"
+    },
+    {
+        "id": "Sauces-and-Spices",
+        "title": "Sauces and Spices",
+        "parent": "Food-Cupboard"
+    },
+    {
+        "id": "Cheese",
+        "title": "Cheese",
+        "parent": "Cheese-Dairy-and-Eggs"
+    },
+    {
+        "id": "Eggs",
+        "title": "Eggs",
+        "parent": "Cheese-Dairy-and-Eggs"
+    },
+    {
+        "id": "Milk-and-Cream",
+        "title": "Milk and Cream",
+        "parent": "Cheese-Dairy-and-Eggs"
+    },
+    {
+        "id": "Yoghurt",
+        "title": "Yoghurt",
+        "parent": "Cheese-Dairy-and-Eggs"
+    },
+    {
+        "id": "Cold-Cuts",
+        "title": "Cold Cuts",
+        "parent": "Chilled-and-Frozen"
+    },
+    {
+        "id": "Meat-Poultry-and-Fish",
+        "title": "Meat, Poultry and Fish",
+        "parent": "Chilled-and-Frozen"
+    },
+    {
+        "id": "Frozen-Vegetables",
+        "title": "Frozen Vegetables",
+        "parent": "Chilled-and-Frozen"
+    },
+    {
+        "id": "Packaged-Pastry",
+        "title": "Packaged Pastry",
+        "parent": "Chilled-and-Frozen"
+    },
+    {
+        "id": "Tea-and-Coffee",
+        "title": "Tea and Coffee",
+        "parent": "Beverage"
+    },
+    {
+        "id": "Hot-Drinks",
+        "title": "Hot Drinks",
+        "parent": "Beverage"
+    },
+    {
+        "id": "Soft-Drinks",
+        "title": "Soft Drinks",
+        "parent": "Beverage"
+    },
+    {
+        "id": "Chocolate-and-Biscuits",
+        "title": "Chocolate and Biscuits",
+        "parent": "Sweets-and-Snacks"
+    },
+    {
+        "id": "Chips-and-Snacks",
+        "title": "Chips and Snacks",
+        "parent": "Sweets-and-Snacks"
+    },
+    {
+        "id": "Candy",
+        "title": "Candy",
+        "parent": "Sweets-and-Snacks"
+    },
+    {
+        "id": "Ice-Cream",
+        "title": "Ice Cream",
+        "parent": "Sweets-and-Snacks"
+    },
+    {
+        "id": "Fruits",
+        "title": "Fruits",
+        "parent": "Fruits-and-Vegetables"
+    },
+    {
+        "id": "Vegetables",
+        "title": "Vegetables",
+        "parent": "Fruits-and-Vegetables"
+    },
+    {
+        "id": "Meat",
+        "title": "Meat",
+        "parent": "Meat-and-Poultry"
+    },
+    {
+        "id": "Rice",
+        "title": "Rice",
+        "parent": "Groceries"
+    },
+    {
+        "id": "Pulses-and-Grains",
+        "title": "Pulses and Grains",
+        "parent": "Groceries"
+    },
+    {
+        "id": "Pasta",
+        "title": "Pasta",
+        "parent": "Groceries"
+    },
+    {
+        "id": "Homebake-and-Desserts",
+        "title": "Homebake and Desserts",
+        "parent": "Groceries"
+    },
+    {
+        "id": "Jam-and-Spreads",
+        "title": "Jam and Spreads",
+        "parent": "Breakfast-and-Spreads"
+    },
+    {
+        "id": "Breakfast-Cereal",
+        "title": "Breakfast Cereal",
+        "parent": "Breakfast-and-Spreads"
+    },
+    {
+        "id": "Canned-Food",
+        "title": "Canned Food",
+        "parent": "Canned-and-Packed-Food"
+    },
+    {
+        "id": "Pickles",
+        "title": "Pickles",
+        "parent": "Canned-and-Packed-Food"
+    },
+    {
+        "id": "Soups-and-Stock",
+        "title": "Soups and Stock",
+        "parent": "Canned-and-Packed-Food"
+    },
+    {
+        "id": "Canned-Milk-and-Cream",
+        "title": "Canned Milk and-Cream",
+        "parent": "Canned-and-Packed-Food"
+    },
+    {
+        "id": "Herbs-and-Spices",
+        "title": "Herbs and Spices",
+        "parent": "Sauces-and-Spices"
+    },
+    {
+        "id": "Meat",
+        "title": "Meat",
+        "parent": "Meat-Poultry-and-Fish"
+    },
+    {
+        "id": "Poultry",
+        "title": "Poultry",
+        "parent": "Meat-Poultry-and-Fish"
+    },
+    {
+        "id": "Fish",
+        "title": "Fish",
+        "parent": "Meat-Poultry-and-Fish"
+    },
+    {
+        "id": "Coffee-and-Creamer",
+        "title": "Coffee and Creamer",
+        "parent": "Tea-and-Coffee"
+    },
+    {
+        "id": "Tea",
+        "title": "Tea",
+        "parent": "Tea-and-Coffee"
+    },
+    {
+        "id": "Chocolate-and-Cocoa",
+        "title": "Chocolate and Cocoa",
+        "parent": "Hot-Drinks"
+    },
+    {
+        "id": "Herbal",
+        "title": "Herbal",
+        "parent": "Hot-Drinks"
+    },
+    {
+        "id": "Carbonated-and-Power-Drinks",
+        "title": "Carbonated and Power Drinks",
+        "parent": "Soft-Drinks"
+    },
+    {
+        "id": "Juices",
+        "title": "Juices",
+        "parent": "Soft-Drinks"
+    },
+    {
+        "id": "Chocolates",
+        "title": "Chocolates",
+        "parent": "Chocolate-and-Biscuits"
+    },
+    {
+        "id": "Biscuits-and-Cakes",
+        "title": "Biscuits and Cakes",
+        "parent": "Chocolate-and-Biscuits"
+    },
+    {
+        "id": "Crisps-and-Snacks",
+        "title": "Crisps and Snacks",
+        "parent": "Chips-and-Snacks"
+    },
+    {
+        "id": "Nuts",
+        "title": "Nuts",
+        "parent": "Chips-and-Snacks"
+    }
+]
