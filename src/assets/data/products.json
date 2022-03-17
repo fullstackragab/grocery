@@ -1317,5 +1317,106 @@
         "images": [
             "01.jpeg"
         ]
-    }
+    },
+    {
+        "id":"Dried-Apricot-Large-By-Weight",
+        "title": "Dried Apricot Large, By Weight",
+        "category": "Herbs-and-Spices",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"47.79",
+        "price_before": "47.49",
+        "sold_by": "Grocery",
+        "description": "Dried Apricot Large",
+        "more_description": [],
+        "images": [
+            "01.webp"
+        ]
+    },
+    {
+        "id":"Qamar-Al-Din-400-Gm",
+        "title": "Qamar Al-Din, 400 Gm",
+        "category": "Herbs-and-Spices",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"24.95",
+        "price_before": "24.95",
+        "sold_by": "Grocery",
+        "description": "Qamar Al-Din",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },{
+        "id":"Lamar-Skimmed-Milk-200-Ml",
+        "title": "Lamar Skimmed Milk, 200 Ml",
+        "category": "Milk-and-Cream",
+        "unit_measure": "200 ml",
+        "discount": "0",
+        "price":"4.75",
+        "price_before": "4.75",
+        "sold_by": "Grocery",
+        "description": "From the farm to you directly, Lamar skimmed milk is a good source of calcium, minerals and vitaminsIt, also helps in maintaining healthy teeth and bones, improving heart health, losing weight, and monitoring blood pressure, and has the ability to help in growth and development. - Keeps you nourished and happy. - Reduces tiredness and fatigue. - Grocery basics.",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },{
+        "id":"Almarai-Skimmed-Milk-1.5-L",
+        "title": "Almarai Skimmed Milk, 1.5 L",
+        "category": "Milk-and-Cream",
+        "unit_measure": "1.5 l",
+        "discount": "0",
+        "price":"27.50",
+        "price_before": "27.50",
+        "sold_by": "Grocery",
+        "description": "Almarai Skimmed Milk",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },{
+        "id":"AlMarai-Skimmed-Milk-1-L",
+        "title": "AlMarai Skimmed Milk, 1 L",
+        "category": "Milk-and-Cream",
+        "unit_measure": "1 l",
+        "discount": "11",
+        "price":"17.50",
+        "price_before": "19.50",
+        "sold_by": "Grocery",
+        "description": "AlMarai Skimmed Milk",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    }{
+        "id":"Almarai-Milk-with-Bananna-200-Ml",
+        "title": "Almarai Milk with Bananna, 200 Ml",
+        "category": "Milk-and-Cream",
+        "unit_measure": "200 ml",
+        "discount": null,
+        "price":"4.75",
+        "price_before": "4.75",
+        "sold_by": "Grocery",
+        "description": "Almarai Milk with Bananna",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },{
+        "id":"Almarai-Milk-with-Strawberry-200-Ml",
+        "title": "Almarai Milk with Strawberry, 200 Ml",
+        "category": "Milk-and-Cream",
+        "unit_measure": "200 ml",
+        "discount": null,
+        "price":"4.75",
+        "price_before": "4.75",
+        "sold_by": "Grocery",
+        "description": "Almarai Milk with Strawberry",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+
 ]
