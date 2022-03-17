@@ -1,11 +1,11 @@
 [
     {
-        "id":"English-Cake-Slices-Plate",
-        "title":"English Cake Slices Plate",
+        "id": "English-Cake-Slices-Plate",
+        "title": "English Cake Slices Plate",
         "category": "Pastries-and-Desserts",
         "unit_measure": "small",
         "discount": "31",
-        "price":"13.95",
+        "price": "13.95",
         "price_before": "19.95",
         "sold_by": "Grocery",
         "description": "Beautifully moist, fresh and ready sliced, our English Cake comes on a plate and is always popular. Pop it into a lunchbox or keep for an after school snack, kids love it at any time of day. Is it on your grocery Spinneys shopping list already?",
@@ -22,12 +22,12 @@
         ]
     },
     {
-        "id":"English-Cake-Mix-Slices-Plate-by-plate",
+        "id": "English-Cake-Mix-Slices-Plate-by-plate",
         "title": "English Cake Mix Slices Plate, by plate",
         "category": "Pastries-and-Desserts",
         "unit_measure": null,
         "discount": "0",
-        "price":"32.95",
+        "price": "32.95",
         "price_before": "32.95",
         "sold_by": "Grocery",
         "description": "Keep the family happy by having a stock of English Cake Mix ready in the cupboard. So easy to make, it is a guaranteed crowd pleaser. Pick up a packet or two when you pass by the supermarket.",
@@ -41,12 +41,12 @@
         ]
     },
     {
-        "id":"Medium-Half-and-Half-Cake",
+        "id": "Medium-Half-and-Half-Cake",
         "title": "Medium Half and Half Cake",
         "category": "Pastries-and-Desserts",
         "unit_measure": "small",
         "discount": "36",
-        "price":"89.95",
+        "price": "89.95",
         "price_before": "139.95",
         "sold_by": "Grocery",
         "description": "Tea for two? Serve up Spinneys' Small Half and Half Cake for mouthfuls of chocolate and vanilla heaven. Fresh as can be, and light as a feather, this a treat to share with those you love. From Spinneys supermarket distinguished bakery.",
@@ -60,12 +60,12 @@
         ]
     },
     {
-        "id":"Half-and-Half-Cake-Large-by-piece",
+        "id": "Half-and-Half-Cake-Large-by-piece",
         "title": "Half and Half Cake Large, by piece",
         "category": "Pastries-and-Desserts",
         "unit_measure": "large",
         "discount": "0",
-        "price":"189.95",
+        "price": "189.95",
         "price_before": "189.95",
         "sold_by": "Grocery",
         "description": "Vanilla or chocolate, or a bit of both? Spinneys' Large Half and Half Cake can be shared by the whole family, with some left over for later. Moist, rich and fresh from the oven, you won't be able to say no. Essential for birthdays and office celebrations. Perfect for sudden celebrations shopping from supermarket. From Spinneys supermarket distinguished bakery.",
@@ -80,12 +80,12 @@
         ]
     },
     {
-        "id":"Season-Mix-Fruit-Cake-Medium-by-piece",
+        "id": "Season-Mix-Fruit-Cake-Medium-by-piece",
         "title": "Season Mix Fruit Cake Medium, by piece",
         "category": "Pastries-and-Desserts",
         "unit_measure": "1 pc",
         "discount": "0",
-        "price":"139.95",
+        "price": "139.95",
         "price_before": "139.95",
         "sold_by": "Grocery",
         "description": "Keep everyone happy with a Season Mix Fruit Cake Medium with Mix fruits in every slice will have you begging for more. Not just for a special occasion, this could be a family treat any day of the week. Head down to your supermarket now. Freshly baked in Spinneys delicious bakery. Delivered to you fresh from Spinneys online supermarket. -Spinneys supermarket distinguished bakery.",
@@ -99,12 +99,12 @@
         ]
     },
     {
-        "id":"Vienna-Bread-2-Pieces",
+        "id": "Vienna-Bread-2-Pieces",
         "title": "Vienna Bread, 2 Pieces",
         "category": "Bread",
         "unit_measure": "2 pc",
         "discount": "0",
-        "price":"7.95",
+        "price": "7.95",
         "price_before": "7.95",
         "sold_by": "Grocery",
         "description": "Finely milled enriched flour makes Vienna Bread a special treat from Spinneys. The glossy soft crust and rich texture make it a great choice for sandwiches with a sweet filling. We suggest trying it with chopped walnuts and fresh dates.",
@@ -118,12 +118,12 @@
         ]
     },
     {
-        "id":"Italian-Bread-Large-per-piece",
+        "id": "Italian-Bread-Large-per-piece",
         "title": "Italian Bread Large, per piece",
         "category": "Bread",
         "unit_measure": "1 pc",
         "discount": "0",
-        "price":"8.95",
+        "price": "8.95",
         "price_before": "8.95",
         "sold_by": "Grocery",
         "description": "Crusty and mouthwateringly good, our Large Italian Bread is big enough to keep the whole family happy. With its distinctive aroma and light touch of olive oil, it brings the taste of Italy to any meal. Put this at the top of your Spinneys shopping list.",
@@ -137,12 +137,12 @@
         ]
     },
     {
-        "id":"Bun-Bread-pack-of-5-pieces",
+        "id": "Bun-Bread-pack-of-5-pieces",
         "title": "Bun Bread, pack of 5 pieces",
         "category": "Bread",
         "unit_measure": null,
         "discount": "0",
-        "price":"9.95",
+        "price": "9.95",
         "price_before": "9.95",
         "sold_by": "Grocery",
         "description": "Bun Bread is just the right size for burger. Fresh and rich with that freshly baked aroma. From Spinneys supermarket distinguished bakery.",
@@ -156,12 +156,12 @@
         ]
     },
     {
-        "id":"French-Baguette",
+        "id": "French-Baguette",
         "title": "French Baguette",
         "category": "Bread",
         "unit_measure": "1 pc",
         "discount": "0",
-        "price":"6.95",
+        "price": "6.95",
         "price_before": "6.95",
         "sold_by": "Grocery",
         "description": "Fresh from the oven, with a crusty exterior that just begs to be torn into, our French Baguette takes bread to a divine level. Great for sandwiches, you can let your creative imagination combine your own choice of exciting fillings. Don’t leave the supermarket without it! Freshly baked in Spinneys delicious bakery.",
@@ -175,12 +175,12 @@
         ]
     },
     {
-        "id":"Bread-Crumbs-Bag-500g",
+        "id": "Bread-Crumbs-Bag-500g",
         "title": "Bread Crumbs Bag, 500g",
         "category": "Bread",
         "unit_measure": "500 g",
         "discount": "0",
-        "price":"9.95",
+        "price": "9.95",
         "price_before": "9.95",
         "sold_by": "Grocery",
         "description": "BREAD RUSK from SPINNEYS to use with all your fried meals, you can use it with chicken or fish to fry and get the golden crunchy look, it should be a part of your grocery Spinneys shopping.",
@@ -194,12 +194,12 @@
         ]
     },
     {
-        "id":"Kiwi-1-Kg",
+        "id": "Kiwi-1-Kg",
         "title": "Kiwi, 1 Kg",
         "category": "Fruits",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"39.95",
+        "price": "39.95",
         "price_before": "39.95",
         "sold_by": "Grocery",
         "description": "Nutrient rich Kiwi fruit, with a full daily allowance of Vitamin C. Slice it, dice it, eat alone or add to salads or smoothies for a fresh, exciting flavor. Don't forget to add it to your shopping cart from Spinneys supermarket.",
@@ -213,12 +213,12 @@
         ]
     },
     {
-        "id":"Golden-Apple-1-Kg",
+        "id": "Golden-Apple-1-Kg",
         "title": "Golden Apple, 1 Kg",
         "category": "Fruits",
         "unit_measure": "kg",
         "discount": "18",
-        "price":"22.95",
+        "price": "22.95",
         "price_before": "27.95",
         "sold_by": "Grocery",
         "description": "Golden apples, sweet and crunchy. Just right for popping into a lunch box or adding interest to a creative salad. Don't forget to add it to to your shopping cart when you shop for your groceries from Spinneys supermarket.",
@@ -231,12 +231,12 @@
         ]
     },
     {
-        "id":"Green-Apple-Fresh-by-weight",
+        "id": "Green-Apple-Fresh-by-weight",
         "title": "Green Apple, Fresh, by weight",
         "category": "Fruits",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"36.95",
+        "price": "36.95",
         "price_before": "36.95",
         "sold_by": "Grocery",
         "description": "Imported green apples, sweet and crunchy. Just right for popping into a lunch box or adding interest to a creative salad. Add it to your shopping cart from Spinneys super market.",
@@ -250,12 +250,12 @@
         ]
     },
     {
-        "id":"Chilean-Watermelon-1-Kg",
+        "id": "Chilean-Watermelon-1-Kg",
         "title": "Chilean-Watermelon-1-Kg",
         "category": "Fruits",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"8.95",
+        "price": "8.95",
         "price_before": "8.95",
         "sold_by": "Grocery",
         "description": "Watermelon is a delicious fruit soaked with nutrients, As it contains more nutrients and vitamins than any other fruit or vegetables A, B6 and C, and a lot of lycopene, antioxidants and amino acids, it contains only 46 calories per cup and is one of the selected sources at Spinneys supermarket. - Contains Nutrients and Beneficial Plant Compounds - Contains Compounds That May Help Prevent Cancer - Lower Inflammation and Oxidative Stress",
@@ -269,12 +269,12 @@
         ]
     },
     {
-        "id":"Lemon-Adalia-1-Kg",
+        "id": "Lemon-Adalia-1-Kg",
         "title": "Lemon Adalia, 1 Kg",
         "category": "Fruits",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"5.95",
+        "price": "5.95",
         "price_before": "5.95",
         "sold_by": "Grocery",
         "description": "Lemon Adalia",
@@ -284,12 +284,12 @@
         ]
     },
     {
-        "id":"Potatoes-1-Kg",
+        "id": "Potatoes-1-Kg",
         "title": "Potatoes, 1 Kg",
         "category": "Vegetables",
         "unit_measure": "kg",
         "discount": "13",
-        "price":"6.95",
+        "price": "6.95",
         "price_before": "7.95",
         "sold_by": "Grocery",
         "description": "New season potatoes for making perfect fries or as an accompaniment to your favorite dishes. Available in convenient family sized packs.",
@@ -303,12 +303,12 @@
         ]
     },
     {
-        "id":"Green-Capsicum-1-Kg",
+        "id": "Green-Capsicum-1-Kg",
         "title": "Green Capsicum, 1 Kg",
         "category": "Vegetables",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"21.95",
+        "price": "21.95",
         "price_before": "21.95",
         "sold_by": "Grocery",
         "description": "Local green capsicum, bursting with Vitamin C and other nutrients. Add to salads, casseroles and pasta dishes any day of the week for color and flavor. Choose your favorite vegetables from Spinneys supermaret.",
@@ -323,12 +323,12 @@
         ]
     },
     {
-        "id":"Cucumber-1-Kg",
+        "id": "Cucumber-1-Kg",
         "title": "Cucumber, 1 Kg",
         "category": "Vegetables",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"21.95",
+        "price": "21.95",
         "price_before": "21.95",
         "sold_by": "Grocery",
         "description": "A dieter’s best friend, cucumber works superbly in any salad recipe, as an accompaniment for favorite dips and even as a quick snack. High in water content, it is refreshing, hydrating and can aid in weight loss. House vegetable essentials.",
@@ -343,12 +343,12 @@
         ]
     },
     {
-        "id":"Coriander-100-gm",
+        "id": "Coriander-100-gm",
         "title": "Coriander, 100 gm",
         "category": "Vegetables",
         "unit_measure": "100 g",
         "discount": "0",
-        "price":"3.25",
+        "price": "3.25",
         "price_before": "3.25",
         "sold_by": "Grocery",
         "description": "Coriander, 100 gm",
@@ -358,12 +358,12 @@
         ]
     },
     {
-        "id":"Red-Cabbage",
+        "id": "Red-Cabbage",
         "title": "Red Cabbage",
         "category": "Vegetables",
         "unit_measure": "1 pc",
         "discount": "0",
-        "price":"8.95",
+        "price": "8.95",
         "price_before": "8.95",
         "sold_by": "Grocery",
         "description": "Cooked or raw in salads, red cabbage is an important source of fiber and essential nutrients like A, B6, C and K Vitamins, potassium, thiamine and riboflavin. Boost your bone strength and immune system with this healthy vegetable.",
@@ -378,12 +378,12 @@
         ]
     },
     {
-        "id":"Beef-Entrecote-Balady",
+        "id": "Beef-Entrecote-Balady",
         "title": "Beef Entrecote Balady",
         "category": "Meat",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"196.95",
+        "price": "196.95",
         "price_before": "196.95",
         "sold_by": "Grocery",
         "description": "Make any day a special treat with our fresh local beef entrecote. Tender, juicy and full of flavor, it is perfect for barbecues, or simply grilled or fried. Add fries and a salad and you have a meal to remember.",
@@ -396,12 +396,12 @@
         ]
     },
     {
-        "id":"Kofta-Balady",
+        "id": "Kofta-Balady",
         "title": "Kofta Balady",
         "category": "Meat",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"124.75",
+        "price": "124.75",
         "price_before": "124.75",
         "sold_by": "Grocery",
         "description": "Seasoned to deliver loads of flavor, protein packed balady beef kofta team up nicely with salads, rice, fries, dips and your favorite vegetables. In fact, they are so versatile you can use them to create delicious dishes day after day.",
@@ -416,12 +416,12 @@
         ]
     },
     {
-        "id":"Beef-Cubes-No-Fat-Balady",
+        "id": "Beef-Cubes-No-Fat-Balady",
         "title": "Beef Cubes No Fat Balady",
         "category": "Meat",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"192.95",
+        "price": "192.95",
         "price_before": "192.95",
         "sold_by": "Grocery",
         "description": "Lean, fat-free beef cubes for getting essential protein in so many ways. Great for diets, you can create currries, casseroles and so much more, without worrying about too many calories.",
@@ -435,12 +435,12 @@
         ]
     },
     {
-        "id":"Burger-Balady",
+        "id": "Burger-Balady",
         "title": "Burger Balady",
         "category": "Meat",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"119.75",
+        "price": "119.75",
         "price_before": "119.75",
         "sold_by": "Grocery",
         "description": "Handy for meals in a hurry, popular with the whole family, juicy beef balady burgers deliver protein galore, and can be used in so many ways. Serve with salad and fries, throw them in a bun with your favorite sauce, they can be fried or grilled in minutes. High quality Spinneys ingredients.",
@@ -455,12 +455,12 @@
         ]
     },
     {
-        "id":"Special-Beef-Burger-Balady-1-Kg",
+        "id": "Special-Beef-Burger-Balady-1-Kg",
         "title": "Special Beef Burger Balady, 1 Kg",
         "category": "Meat",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"149.95",
+        "price": "149.95",
         "price_before": "149.95",
         "sold_by": "Grocery",
         "description": "Special Beef Burger Balady",
@@ -470,12 +470,12 @@
         ]
     },
     {
-        "id":"Marinated-Chicken-Drumstick-1-Kg",
+        "id": "Marinated-Chicken-Drumstick-1-Kg",
         "title": "Marinated Chicken Drumstick, 1 Kg",
         "category": "Poultry",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"85.95",
+        "price": "85.95",
         "price_before": "85.95",
         "sold_by": "Grocery",
         "description": "Ready marinated with rich spicy flavors, our chicken drumsticks are a treat for the whole family. Simply grill or fry to make an easy meal that will have them coming back for more.",
@@ -489,12 +489,12 @@
         ]
     },
     {
-        "id":"Whole-Chicken-900-1100-Fresh-by-weight",
+        "id": "Whole-Chicken-900-1100-Fresh-by-weight",
         "title": "Whole Chicken 900-1100, Fresh, by weight",
         "category": "Poultry",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"63.95",
+        "price": "63.95",
         "price_before": "63.95",
         "sold_by": "Grocery",
         "description": "Low in calories but big on flavor, clean and fresh chicken can be prepared in so many ways. Budget-friendly and always popular with the kids, it goes with everything. Ranging in size from 900g to 1100g.",
@@ -508,12 +508,12 @@
         ]
     },
     {
-        "id":"Chicken-Shawarma-Fresh-1-Kg",
+        "id": "Chicken-Shawarma-Fresh-1-Kg",
         "title": "Chicken Shawarma, Fresh, 1 Kg",
         "category": "Poultry",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"122.95",
+        "price": "122.95",
         "price_before": "122.95",
         "sold_by": "Grocery",
         "description": "Everyone's favorite, a crowd-pleaser at any meal. Ready seasoned and prepared in a flash, tender slivers of chicken that just need warm bread and your choice of salads.",
@@ -527,12 +527,12 @@
         ]
     },
     {
-        "id":"Raw-Chicken-Breast-Fillets-1-Kg",
+        "id": "Raw-Chicken-Breast-Fillets-1-Kg",
         "title": "Raw Chicken Breast Fillets, 1 Kg",
         "category": "Poultry",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"85.95",
+        "price": "85.95",
         "price_before": "85.95",
         "sold_by": "Grocery",
         "description": "Ready to cook, Raw Chicken Breast Fillets has the traditional taste that will make it a family favorite. Lean and protein-packed, it is a dieter’s dream, with energy-boosting goodness and few calories.",
@@ -547,12 +547,12 @@
         ]
     },
     {
-        "id":"Marinated-Tawook-1-Kg",
+        "id": "Marinated-Tawook-1-Kg",
         "title": "Marinated Tawook, 1 Kg",
         "category": "Poultry",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"99.95",
+        "price": "99.95",
         "price_before": "99.95",
         "sold_by": "Grocery",
         "description": "Ready to pop straight onto the grill, Marinated Shish Tawook has the traditional taste that will make it a family favorite. Lean and protein-packed, it is a dieter’s dream, with energy-boosting goodness and few calories. Don't forget to add it to your cart in Spinneys Supermarket. Spinneys selected quality products.",
@@ -567,12 +567,12 @@
         ]
     },
     {
-        "id":"El-Doha-Rice-1-Kg",
+        "id": "El-Doha-Rice-1-Kg",
         "title": "El Doha Rice, 1 Kg",
         "category": "Rice",
         "unit_measure": "kg",
         "discount": "17",
-        "price":"16.25",
+        "price": "16.25",
         "price_before": "19.50",
         "sold_by": "Grocery",
         "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
@@ -586,12 +586,12 @@
         ]
     },
     {
-        "id":"El-Doha-Rice-5-Kg",
+        "id": "El-Doha-Rice-5-Kg",
         "title": "El Doha Rice, 5 Kg",
         "category": "Rice",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"82.95",
+        "price": "82.95",
         "price_before": "82.95",
         "sold_by": "Grocery",
         "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
@@ -605,12 +605,12 @@
         ]
     },
     {
-        "id":"El-Doha-Rice-10-Kg",
+        "id": "El-Doha-Rice-10-Kg",
         "title": "El Doha Rice, 10 Kg",
         "category": "Rice",
         "unit_measure": "kg",
         "discount": "0",
-        "price":"170.95",
+        "price": "170.95",
         "price_before": "170.95",
         "sold_by": "Grocery",
         "description": "El Doha Rice is essential in every house for its high quality and nutritious value. Make the best dishes for your friends and family when you include it in your supermarket and online grocery store list.",
@@ -624,12 +624,12 @@
         ]
     },
     {
-        "id":"Al-Doha-Golden-Rice-1kg",
+        "id": "Al-Doha-Golden-Rice-1kg",
         "title": "Al-Doha Golden Rice, 1kg",
         "category": "Rice",
         "unit_measure": null,
         "discount": "0",
-        "price":"34.95",
+        "price": "34.95",
         "price_before": "34.95",
         "sold_by": "Grocery",
         "description": "Premium low-carb, golden rice, suitable for diet and healthy lifestyles. Al-Doha is known for its non-sticky, firm, long-grained pearly rice. It is rich in flavor, and stands out for its fine texture.",
@@ -643,12 +643,12 @@
         ]
     },
     {
-        "id":"Shahy-White-Rice-5-Kg",
+        "id": "Shahy-White-Rice-5-Kg",
         "title": "Shahy White Rice, 5 Kg",
         "category": "Rice",
         "unit_measure": "kg",
         "discount": "14",
-        "price":"68.75",
+        "price": "68.75",
         "price_before": "79.95",
         "sold_by": "Grocery",
         "description": "Shahy White Rice",
@@ -658,12 +658,12 @@
         ]
     },
     {
-        "id":"El-Doha-Brown-Lentils-500-Gm",
+        "id": "El-Doha-Brown-Lentils-500-Gm",
         "title": "El Doha Brown Lentils, 500 Gm",
         "category": "Pulses-and-Grains",
         "unit_measure": "500 g",
         "discount": "12",
-        "price":"25.25",
+        "price": "25.25",
         "price_before": "28.50",
         "sold_by": "Grocery",
         "description": "Natural dry whole brown lentils form Al Doha, ready to cook your favorite brown lentils recipes or boil it to Egyptian tasty Koshari dish. It features all legume benefits with the delicious taste. Don't forget to add it to your cart in Spinneys.",
@@ -677,12 +677,12 @@
         ]
     },
     {
-        "id":"El-Doha-White-Beans-500-Gm",
+        "id": "El-Doha-White-Beans-500-Gm",
         "title": "El Doha White Beans, 500 Gm",
         "category": "Pulses-and-Grains",
         "unit_measure": "500 g",
         "discount": "0",
-        "price":"20.93",
+        "price": "20.93",
         "price_before": "20.93",
         "sold_by": "Grocery",
         "description": "White beans from El Doha are carefully selected you can get from the supermarket, to help you prepare the perfect white beans dishes. The premium quality in every single grain gives you the peace of mind to prepare the best dishes for your family. Essential item in every house groceries.",
@@ -696,12 +696,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Egyptian-Fava-Beans-350-gm",
+        "id": "El-Matbakh-Egyptian-Fava-Beans-350-gm",
         "title": "El Matbakh Egyptian Fava Beans, 350 gm",
         "category": "Pulses-and-Grains",
         "unit_measure": "350 g",
         "discount": "0",
-        "price":"14.25",
+        "price": "14.25",
         "price_before": "14.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Fava Beans",
@@ -711,12 +711,12 @@
         ]
     },
     {
-        "id":"El-Doha-Black-Eyes-Beans-500-g",
+        "id": "El-Doha-Black-Eyes-Beans-500-g",
         "title": "El Doha Black Eyes Beans, 500 g",
         "category": "Pulses-and-Grains",
         "unit_measure": "500 g",
         "discount": "0",
-        "price":"30.25",
+        "price": "30.25",
         "price_before": "30.25",
         "sold_by": "Grocery",
         "description": "500 grams of pure beans full of fiber and protein for a healthy body, and perfectly suited for diet because it's cholesterol-free. Order it now from Spinneys and get a delicious and useful meal with ease.",
@@ -726,12 +726,12 @@
         ]
     },
     {
-        "id":"Al-Doha-Dried-Molokhia-130-g",
+        "id": "Al-Doha-Dried-Molokhia-130-g",
         "title": "Al Doha Dried Molokhia, 130 g",
         "category": "Pulses-and-Grains",
         "unit_measure": "130 g",
         "discount": "0",
-        "price":"9.25",
+        "price": "9.25",
         "price_before": "9.25",
         "sold_by": "Grocery",
         "description": "Al Doha Dried Molokhia.",
@@ -741,12 +741,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Pasta-Rice-400-Gm",
+        "id": "El-Matbakh-Pasta-Rice-400-Gm",
         "title": "El Matbakh Pasta Rice, 400 Gm",
         "category": "Pasta",
         "unit_measure": null,
         "discount": "16",
-        "price":"5.25",
+        "price": "5.25",
         "price_before": "6.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Pasta Rice",
@@ -756,12 +756,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Pasta-Elbow-400-Gm",
+        "id": "El-Matbakh-Pasta-Elbow-400-Gm",
         "title": "El Matbakh Pasta Elbow, 400 Gm",
         "category": "Pasta",
         "unit_measure": null,
         "discount": "16",
-        "price":"5.25",
+        "price": "5.25",
         "price_before": "6.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Pasta Elbow",
@@ -771,12 +771,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Pasta-Small-Rings-400-Gm",
+        "id": "El-Matbakh-Pasta-Small-Rings-400-Gm",
         "title": "El Matbakh Pasta Small Rings, 400 Gm",
         "category": "Pasta",
         "unit_measure": null,
         "discount": "16",
-        "price":"5.25",
+        "price": "5.25",
         "price_before": "6.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Pasta Small Rings",
@@ -786,12 +786,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Pasta-Rings-400-Gm",
+        "id": "El-Matbakh-Pasta-Rings-400-Gm",
         "title": "El Matbakh Pasta Rings, 400 Gm",
         "category": "Pasta",
         "unit_measure": null,
         "discount": "16",
-        "price":"5.25",
+        "price": "5.25",
         "price_before": "6.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Pasta Rings",
@@ -801,12 +801,12 @@
         ]
     },
     {
-        "id":"El-Matbakh-Pasta-Penne-400-Gm",
+        "id": "El-Matbakh-Pasta-Penne-400-Gm",
         "title": "El Matbakh Pasta Penne, 400 Gm",
         "category": "Pasta",
         "unit_measure": null,
         "discount": "16",
-        "price":"5.25",
+        "price": "5.25",
         "price_before": "6.25",
         "sold_by": "Grocery",
         "description": "El Matbakh Pasta Penne",
@@ -816,12 +816,12 @@
         ]
     },
     {
-        "id":"Dreem-Molten-Cake-400g",
+        "id": "Dreem-Molten-Cake-400g",
         "title": "Dreem Molten Cake, 400g",
         "category": "Homebake-and-Desserts",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"32.95",
+        "price": "32.95",
         "price_before": "32.95",
         "sold_by": "Grocery",
         "description": "Dreem offers a molten cake mix for easily making the tastiest molten cake with chocolate volcanoes. It is a convenient choice for most occasions, and it delivers a delightful, rich chocolate flavor.",
@@ -835,12 +835,12 @@
         ]
     },
     {
-        "id":"Dream-Strawberry-Jelly-210-Gm",
+        "id": "Dream-Strawberry-Jelly-210-Gm",
         "title": "Dream Strawberry Jelly, 210 Gm",
         "category": "Homebake-and-Desserts",
         "unit_measure": "210 g",
         "discount": "15",
-        "price":"10.75",
+        "price": "10.75",
         "price_before": "12.50",
         "sold_by": "Grocery",
         "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
@@ -854,12 +854,12 @@
         ]
     },
     {
-        "id":"Dreem-Chocolate-Muffin-Mix-450g",
+        "id": "Dreem-Chocolate-Muffin-Mix-450g",
         "title": "Dreem Chocolate Muffin Mix, 450g",
         "category": "Homebake-and-Desserts",
         "unit_measure": "450 g",
         "discount": "0",
-        "price":"36.75",
+        "price": "36.75",
         "price_before": "36.75",
         "sold_by": "Grocery",
         "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
@@ -873,12 +873,12 @@
         ]
     },
     {
-        "id":"Dreem-Vanilla-Muffin-Mix-450g",
+        "id": "Dreem-Vanilla-Muffin-Mix-450g",
         "title": "Dreem Vanilla Muffin Mix, 450g",
         "category": "Homebake-and-Desserts",
         "unit_measure": "450 g",
         "discount": "0",
-        "price":"36.75",
+        "price": "36.75",
         "price_before": "36.75",
         "sold_by": "Grocery",
         "description": "With Dreem Vanilla Muffin Mix, 450 g, prepare delicious muffins for your children or your office parties. Pack includes 8 cupcake molds and chocolate chips. A Vanilla muffin with chocolate chips is children favorite. Serve with cream or with your afternoon tea for a nice treat. You can order it online from Spinneys supermarket.",
@@ -892,12 +892,12 @@
         ]
     },
     {
-        "id":"Dreem-Strawberry-Jelly-70g",
+        "id": "Dreem-Strawberry-Jelly-70g",
         "title": "Dreem Strawberry Jelly, 70g",
         "category": "Homebake-and-Desserts",
         "unit_measure": "70 g",
         "discount": "0",
-        "price":"4.50",
+        "price": "4.50",
         "price_before": "4.50",
         "sold_by": "Grocery",
         "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
@@ -911,12 +911,12 @@
         ]
     },
     {
-        "id":"Dreem-Strawberry-Jelly-70g",
+        "id": "Dreem-Strawberry-Jelly-70g",
         "title": "Dreem Strawberry Jelly, 70g",
         "category": "Homebake-and-Desserts",
         "unit_measure": "70 g",
         "discount": "0",
-        "price":"4.50",
+        "price": "4.50",
         "price_before": "4.50",
         "sold_by": "Grocery",
         "description": "Dream Strawberry Jelly gives you the exquisite sweet treat you look for. Its smoothness along with the great taste and high quality make it a must include in your Spinneys supermarket online grocery order.",
@@ -930,12 +930,12 @@
         ]
     },
     {
-        "id":"El-Rashidi-El-Mizan-Halawa-1060-gm",
+        "id": "El-Rashidi-El-Mizan-Halawa-1060-gm",
         "title": "El Rashidi El Mizan Halawa, 1060 gm",
         "category": "Jam-and-Spreads",
         "unit_measure": "1.06 kg",
         "discount": "0",
-        "price":"63.75",
+        "price": "63.75",
         "price_before": "18.50",
         "sold_by": "Grocery",
         "description": "El Rashidi El Mizan Halawa",
@@ -945,12 +945,12 @@
         ]
     },
     {
-        "id":"Vitrac-Jam-Mango-340g",
+        "id": "Vitrac-Jam-Mango-340g",
         "title": "Vitrac Jam Mango , 340g",
         "category": "Jam-and-Spreads",
         "unit_measure": "320 g",
         "discount": "0",
-        "price":"18.50",
+        "price": "18.50",
         "price_before": "18.50",
         "sold_by": "Grocery",
         "description": "Vitrac Jam Mango",
@@ -960,12 +960,12 @@
         ]
     },
     {
-        "id":"Rashidi-Mizan-Halawa-259-gm",
+        "id": "Rashidi-Mizan-Halawa-259-gm",
         "title": "Rashidi Mizan Halawa, 259 gm",
         "category": "Jam-and-Spreads",
         "unit_measure": "295 g",
         "discount": "0",
-        "price":"20.45",
+        "price": "20.45",
         "price_before": "20.45",
         "sold_by": "Grocery",
         "description": "Rashidi Mizan Halawa",
@@ -975,12 +975,12 @@
         ]
     },
     {
-        "id":"El-Bawadi-Tahina-285-g",
+        "id": "El-Bawadi-Tahina-285-g",
         "title": "El Bawadi Tahina, 285 g",
         "category": "Jam-and-Spreads",
         "unit_measure": "285 g",
         "discount": "0",
-        "price":"20.95",
+        "price": "20.95",
         "price_before": "20.95",
         "sold_by": "Grocery",
         "description": "El Bawadi Tahina, 285 g of high quality and original taste that makes you enjoy your day differently.",
@@ -990,12 +990,12 @@
         ]
     },
     {
-        "id":"El-Rashidi-El-Mizan-Strawberry-Jam-340-gm",
+        "id": "El-Rashidi-El-Mizan-Strawberry-Jam-340-gm",
         "title": "El Rashidi El Mizan Strawberry Jam, 340 gm",
         "category": "Jam-and-Spreads",
         "unit_measure": "340 g",
         "discount": "0",
-        "price":"14.95",
+        "price": "14.95",
         "price_before": "14.95",
         "sold_by": "Grocery",
         "description": "El Rashidi El Mizan Strawberry Jam",
@@ -1005,12 +1005,12 @@
         ]
     },
     {
-        "id":"Nestle-Low-Fat-Fitness-Cereal-375-gm",
+        "id": "Nestle-Low-Fat-Fitness-Cereal-375-gm",
         "title": "Nestle Low Fat Fitness Cereal , 375 gm",
         "category": "Breakfast-Cereal",
         "unit_measure": "375 g",
         "discount": "0",
-        "price":"62.25",
+        "price": "62.25",
         "price_before": "14.95",
         "sold_by": "Grocery",
         "description": "Enjoy Nestlé FITNESS® low fat cerreal flakes delicious crispy flakes. With wholegrain oats. It also contains B vitamins to give you nutritious energy . Suitable for low calories diet. Provides you with fibers and minerals for healthier diet.",
@@ -1025,12 +1025,12 @@
         ]
     },
     {
-        "id":"Temmy's-Bran-Flakes-250-gm",
+        "id": "Temmy's-Bran-Flakes-250-gm",
         "title": "Temmy's Bran Flakes, 250 gm",
         "category": "Breakfast-Cereal",
         "unit_measure": "250 g",
         "discount": "0",
-        "price":"26.50",
+        "price": "26.50",
         "price_before": "26.50",
         "sold_by": "Grocery",
         "description": "Temmy's Bran Flakes",
@@ -1040,12 +1040,12 @@
         ]
     },
     {
-        "id":"Sante-Whole-Grain-Granola-Chocolate-350-g",
+        "id": "Sante-Whole-Grain-Granola-Chocolate-350-g",
         "title": "Sante-Whole-Grain-Granola-Chocolate-350-g",
         "category": "Breakfast-Cereal",
         "unit_measure": "350 g",
         "discount": "0",
-        "price":"47.95",
+        "price": "47.95",
         "price_before": "47.95",
         "sold_by": "Grocery",
         "description": "Sante Whole Grain Granola Chocolate",
@@ -1055,12 +1055,12 @@
         ]
     },
     {
-        "id":"Lino-Muesli-Oats-Flakes-with-Fruits-Mix-Dried-375-g",
+        "id": "Lino-Muesli-Oats-Flakes-with-Fruits-Mix-Dried-375-g",
         "title": "Lino Muesli Oats Flakes with Fruits Mix Dried, 375 g",
         "category": "Breakfast-Cereal",
         "unit_measure": "375 g",
         "discount": "0",
-        "price":"58.25",
+        "price": "58.25",
         "price_before": "58.25",
         "sold_by": "Grocery",
         "description": "Lino Muesli Oats Flakes with Fruits Mix Dried",
@@ -1070,12 +1070,12 @@
         ]
     },
     {
-        "id":"Abu-Auf-Granola-Nuts-400-gm",
+        "id": "Abu-Auf-Granola-Nuts-400-gm",
         "title": "Abu Auf Granola Nuts, 400 gm",
         "category": "Breakfast-Cereal",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"53.50",
+        "price": "53.50",
         "price_before": "53.50",
         "sold_by": "Grocery",
         "description": "Abu Auf Granola Nuts",
@@ -1085,12 +1085,12 @@
         ]
     },
     {
-        "id":"California-Garden-Canned-Processed-Peas-400g",
+        "id": "California-Garden-Canned-Processed-Peas-400g",
         "title": "California Garden Canned Processed Peas, 400g",
         "category": "Canned-Food",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"10.75",
+        "price": "10.75",
         "price_before": "10.75",
         "sold_by": "Grocery",
         "description": "California Garden Peas are processed and canned within 20 minutes of harvest, to ensure maximum taste and tenderness. No need for shelling peas, California Garden processed peas are ready to eat. Essential item in every house groceries.",
@@ -1104,12 +1104,12 @@
         ]
     },
     {
-        "id":"Americana-Tuna-Slices-In-SunFlower-Oil-120-Gm",
+        "id": "Americana-Tuna-Slices-In-SunFlower-Oil-120-Gm",
         "title": "Americana Tuna Slices In SunFlower Oil, 120 Gm",
         "category": "Canned-Food",
         "unit_measure": "120 g",
         "discount": "0",
-        "price":"40.75",
+        "price": "40.75",
         "price_before": "40.75",
         "sold_by": "Grocery",
         "description": "And when it comes to long-lasting but versatile food storage materials, canned tuna slices of Americana with sunflower oil is the best! Its mild flavor assures that you can combine it with a variety of other dishes. You can order it from the delivery service at Spinneys Supermarket.",
@@ -1124,12 +1124,12 @@
         ]
     },
     {
-        "id":"Americana-Tuna-Slice-In-Lemon-120-Gm",
+        "id": "Americana-Tuna-Slice-In-Lemon-120-Gm",
         "title": "Americana Tuna Slice In Lemon, 120 Gm",
         "category": "Canned-Food",
         "unit_measure": "120 g",
         "discount": "0",
-        "price":"40.75",
+        "price": "40.75",
         "price_before": "40.75",
         "sold_by": "Grocery",
         "description": "Enjoy tuna slices with black pepper and lemon from Americana. Besides being quick and easy to prepare, it is rich in nutritional value that provides the body with energy and is also delicious in taste. You can order it from the delivery service at Spinneys Supermarket.",
@@ -1144,12 +1144,12 @@
         ]
     },
     {
-        "id":"California-Garden-Chickpeas-400-gm",
+        "id": "California-Garden-Chickpeas-400-gm",
         "title": "California Garden Chickpeas, 400 gm",
         "category": "Canned-Food",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"14.45",
+        "price": "14.45",
         "price_before": "14.45",
         "sold_by": "Grocery",
         "description": "California Garden Chickpeas",
@@ -1159,12 +1159,12 @@
         ]
     },
     {
-        "id":"California-Garden-White-Beans-400g",
+        "id": "California-Garden-White-Beans-400g",
         "title": "California Garden White Beans, 400g",
         "category": "Canned-Food",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"15.25",
+        "price": "15.25",
         "price_before": "15.25",
         "sold_by": "Grocery",
         "description": "Flavorful White beans in an easy-opening tin can that is ready to eat, provide high nutritional value for your meals, and makes exequiste salads. For a variety on your kitchen salads, put it on your shopping cart from Spinneys supermarket.",
@@ -1178,12 +1178,12 @@
         ]
     },
     {
-        "id":"Sliced-Green-Olive-625g",
+        "id": "Sliced-Green-Olive-625g",
         "title": "Sliced Green Olive, 625g",
         "category": "Pickles",
         "unit_measure": "625 g",
         "discount": "0",
-        "price":"30.95",
+        "price": "30.95",
         "price_before": "30.95",
         "sold_by": "Grocery",
         "description": "Delicious olives made with real, simple ingredients for an unforgettable flavor. Ripe olives are harvested and cured in vinegar, salt, and spices to be ready for you to use you can get from Spinneys supermarket, it's perfect for pizza, salads, and sandwiches.",
@@ -1197,12 +1197,12 @@
         ]
     },
     {
-        "id":"Mixed-Pickles-625g",
+        "id": "Mixed-Pickles-625g",
         "title": "Mixed Pickles, 625g",
         "category": "Pickles",
         "unit_measure": "625 g",
         "discount": "0",
-        "price":"20.50",
+        "price": "20.50",
         "price_before": "20.50",
         "sold_by": "Grocery",
         "description": "Delicious mixed pickled in Wadi Food vacuum-sealed package. Contains high-quality mixed pickled vegetables as onions lemon, carrot,radish and green olives. Available in the supermarket to make your meal more delicious and tasty.",
@@ -1217,12 +1217,12 @@
         ]
     },
     {
-        "id":"Black-Olives-625g",
+        "id": "Black-Olives-625g",
         "title": "Black Olives, 625g",
         "category": "Pickles",
         "unit_measure": "625 g",
         "discount": "0",
-        "price":"30.95",
+        "price": "30.95",
         "price_before": "30.95",
         "sold_by": "Grocery",
         "description": "Delicious olives made with real, simple ingredients for an unforgettable flavor. Ripe olives are harvested and cured in vinegar, salt, and spices to be ready for you to use you can get from Spinneys supermarket, it's perfect for pizza, salads, and sandwiches.",
@@ -1236,12 +1236,12 @@
         ]
     },
     {
-        "id":"Natural-Green-Olives-1kg",
+        "id": "Natural-Green-Olives-1kg",
         "title": "Natural Green Olives, 1kg",
         "category": "Pickles",
         "unit_measure": "1 kg",
         "discount": "0",
-        "price":"35.95",
+        "price": "35.95",
         "price_before": "35.95",
         "sold_by": "Grocery",
         "description": "Natural Green Olives jar offers whole green olives cured in vinegar, salt, and spices. They are paired perfectly with various dishes, adding a tangy taste. You can order it online from Spinneys supermarket.",
@@ -1255,12 +1255,12 @@
         ]
     },
     {
-        "id":"Pickled-Lemons-625g",
+        "id": "Pickled-Lemons-625g",
         "title": "Pickled Lemons, 625g",
         "category": "Pickles",
         "unit_measure": "625 g",
         "discount": "0",
-        "price":"23.95",
+        "price": "23.95",
         "price_before": "23.95",
         "sold_by": "Grocery",
         "description": "Pickled Lemons are handpicked and cured in vinegar, salt, garlic, and spices. They are ready to be eaten with various dishes and add an appetizing, tangy taste to your food. You can order it online from Spinneys supermarket.",
@@ -1274,12 +1274,12 @@
         ]
     },
     {
-        "id":"Roasted-Almonds-By-Weight",
+        "id": "Roasted-Almonds-By-Weight",
         "title": "Roasted Almonds, By Weight",
         "category": "Herbs-and-Spices",
         "unit_measure": null,
         "discount": "0",
-        "price":"53.99",
+        "price": "53.99",
         "price_before": "53.99",
         "sold_by": "Grocery",
         "description": "Roasted Almonds.",
@@ -1289,12 +1289,12 @@
         ]
     },
     {
-        "id":"Walnut-By-Weight-Kg",
+        "id": "Walnut-By-Weight-Kg",
         "title": "Walnut By Weight, Kg",
         "category": "Herbs-and-Spices",
         "unit_measure": null,
         "discount": "19",
-        "price":"22.44",
+        "price": "22.44",
         "price_before": "27.49",
         "sold_by": "Grocery",
         "description": "Walnut By Weight, Kg",
@@ -1304,12 +1304,12 @@
         ]
     },
     {
-        "id":"Dried-Apricot-Jumbo-By-Weight",
+        "id": "Dried-Apricot-Jumbo-By-Weight",
         "title": "Dried Apricot, Jumbo, By Weight",
         "category": "Herbs-and-Spices",
         "unit_measure": null,
         "discount": "0",
-        "price":"54.99",
+        "price": "54.99",
         "price_before": "54.99",
         "sold_by": "Grocery",
         "description": "Dried Apricot, Jumbo",
@@ -1319,12 +1319,12 @@
         ]
     },
     {
-        "id":"Dried-Apricot-Large-By-Weight",
+        "id": "Dried-Apricot-Large-By-Weight",
         "title": "Dried Apricot Large, By Weight",
         "category": "Herbs-and-Spices",
         "unit_measure": null,
         "discount": "0",
-        "price":"47.79",
+        "price": "47.79",
         "price_before": "47.49",
         "sold_by": "Grocery",
         "description": "Dried Apricot Large",
@@ -1334,12 +1334,12 @@
         ]
     },
     {
-        "id":"Qamar-Al-Din-400-Gm",
+        "id": "Qamar-Al-Din-400-Gm",
         "title": "Qamar Al-Din, 400 Gm",
         "category": "Herbs-and-Spices",
         "unit_measure": "400 g",
         "discount": "0",
-        "price":"24.95",
+        "price": "24.95",
         "price_before": "24.95",
         "sold_by": "Grocery",
         "description": "Qamar Al-Din",
@@ -1347,13 +1347,14 @@
         "images": [
             "01.jpeg"
         ]
-    },{
-        "id":"Lamar-Skimmed-Milk-200-Ml",
+    },
+    {
+        "id": "Lamar-Skimmed-Milk-200-Ml",
         "title": "Lamar Skimmed Milk, 200 Ml",
         "category": "Milk-and-Cream",
         "unit_measure": "200 ml",
         "discount": "0",
-        "price":"4.75",
+        "price": "4.75",
         "price_before": "4.75",
         "sold_by": "Grocery",
         "description": "From the farm to you directly, Lamar skimmed milk is a good source of calcium, minerals and vitaminsIt, also helps in maintaining healthy teeth and bones, improving heart health, losing weight, and monitoring blood pressure, and has the ability to help in growth and development. - Keeps you nourished and happy. - Reduces tiredness and fatigue. - Grocery basics.",
@@ -1361,13 +1362,14 @@
         "images": [
             "01.jpeg"
         ]
-    },{
-        "id":"Almarai-Skimmed-Milk-1.5-L",
+    },
+    {
+        "id": "Almarai-Skimmed-Milk-1.5-L",
         "title": "Almarai Skimmed Milk, 1.5 L",
         "category": "Milk-and-Cream",
         "unit_measure": "1.5 l",
         "discount": "0",
-        "price":"27.50",
+        "price": "27.50",
         "price_before": "27.50",
         "sold_by": "Grocery",
         "description": "Almarai Skimmed Milk",
@@ -1375,13 +1377,14 @@
         "images": [
             "01.jpeg"
         ]
-    },{
-        "id":"AlMarai-Skimmed-Milk-1-L",
+    },
+    {
+        "id": "AlMarai-Skimmed-Milk-1-L",
         "title": "AlMarai Skimmed Milk, 1 L",
         "category": "Milk-and-Cream",
         "unit_measure": "1 l",
         "discount": "11",
-        "price":"17.50",
+        "price": "17.50",
         "price_before": "19.50",
         "sold_by": "Grocery",
         "description": "AlMarai Skimmed Milk",
@@ -1390,12 +1393,12 @@
             "01.jpeg"
         ]
     }{
-        "id":"Almarai-Milk-with-Bananna-200-Ml",
+        "id": "Almarai-Milk-with-Bananna-200-Ml",
         "title": "Almarai Milk with Bananna, 200 Ml",
         "category": "Milk-and-Cream",
         "unit_measure": "200 ml",
         "discount": null,
-        "price":"4.75",
+        "price": "4.75",
         "price_before": "4.75",
         "sold_by": "Grocery",
         "description": "Almarai Milk with Bananna",
@@ -1403,13 +1406,14 @@
         "images": [
             "01.jpeg"
         ]
-    },{
-        "id":"Almarai-Milk-with-Strawberry-200-Ml",
+    },
+    {
+        "id": "Almarai-Milk-with-Strawberry-200-Ml",
         "title": "Almarai Milk with Strawberry, 200 Ml",
         "category": "Milk-and-Cream",
         "unit_measure": "200 ml",
         "discount": null,
-        "price":"4.75",
+        "price": "4.75",
         "price_before": "4.75",
         "sold_by": "Grocery",
         "description": "Almarai Milk with Strawberry",
@@ -1417,6 +1421,5 @@
         "images": [
             "01.jpeg"
         ]
-    },
-
+    }
 ]
