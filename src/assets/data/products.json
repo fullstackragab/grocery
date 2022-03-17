@@ -1083,5 +1083,239 @@
         "images": [
             "01.jpg"
         ]
+    },
+    {
+        "id":"California-Garden-Canned-Processed-Peas-400g",
+        "title": "California Garden Canned Processed Peas, 400g",
+        "category": "Canned-Food",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"10.75",
+        "price_before": "10.75",
+        "sold_by": "Grocery",
+        "description": "California Garden Peas are processed and canned within 20 minutes of harvest, to ensure maximum taste and tenderness. No need for shelling peas, California Garden processed peas are ready to eat. Essential item in every house groceries.",
+        "more_description": [
+            "Sweet flavor.",
+            "Ready-to-eat you can get it from the Supermarket.",
+            "Suitable For Vegetarians."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Americana-Tuna-Slices-In-SunFlower-Oil-120-Gm",
+        "title": "Americana Tuna Slices In SunFlower Oil, 120 Gm",
+        "category": "Canned-Food",
+        "unit_measure": "120 g",
+        "discount": "0",
+        "price":"40.75",
+        "price_before": "40.75",
+        "sold_by": "Grocery",
+        "description": "And when it comes to long-lasting but versatile food storage materials, canned tuna slices of Americana with sunflower oil is the best! Its mild flavor assures that you can combine it with a variety of other dishes. You can order it from the delivery service at Spinneys Supermarket.",
+        "more_description": [
+            "Canned fish.",
+            "Preserved foods.",
+            "Grocery Basics.",
+            "Weight: 120 g."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Americana-Tuna-Slice-In-Lemon-120-Gm",
+        "title": "Americana Tuna Slice In Lemon, 120 Gm",
+        "category": "Canned-Food",
+        "unit_measure": "120 g",
+        "discount": "0",
+        "price":"40.75",
+        "price_before": "40.75",
+        "sold_by": "Grocery",
+        "description": "Enjoy tuna slices with black pepper and lemon from Americana. Besides being quick and easy to prepare, it is rich in nutritional value that provides the body with energy and is also delicious in taste. You can order it from the delivery service at Spinneys Supermarket.",
+        "more_description": [
+            "Canned fish.",
+            "Preserved foods.",
+            "Grocery Basics.",
+            "Weight: 120 g."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"California-Garden-Chickpeas-400-gm",
+        "title": "California Garden Chickpeas, 400 gm",
+        "category": "Canned-Food",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"14.45",
+        "price_before": "14.45",
+        "sold_by": "Grocery",
+        "description": "California Garden Chickpeas",
+        "more_description": [],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"California-Garden-White-Beans-400g",
+        "title": "California Garden White Beans, 400g",
+        "category": "Canned-Food",
+        "unit_measure": "400 g",
+        "discount": "0",
+        "price":"15.25",
+        "price_before": "15.25",
+        "sold_by": "Grocery",
+        "description": "Flavorful White beans in an easy-opening tin can that is ready to eat, provide high nutritional value for your meals, and makes exequiste salads. For a variety on your kitchen salads, put it on your shopping cart from Spinneys supermarket.",
+        "more_description": [
+            "400g easy-opening tin can.",
+            "High protein value.",
+            "Salads essentials."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Sliced-Green-Olive-625g",
+        "title": "Sliced Green Olive, 625g",
+        "category": "Pickles",
+        "unit_measure": "625 g",
+        "discount": "0",
+        "price":"30.95",
+        "price_before": "30.95",
+        "sold_by": "Grocery",
+        "description": "Delicious olives made with real, simple ingredients for an unforgettable flavor. Ripe olives are harvested and cured in vinegar, salt, and spices to be ready for you to use you can get from Spinneys supermarket, it's perfect for pizza, salads, and sandwiches.",
+        "more_description": [
+            "Green ripe olives.",
+            "Smooth and meaty.",
+            "No artificial colors or flavors."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Mixed-Pickles-625g",
+        "title": "Mixed Pickles, 625g",
+        "category": "Pickles",
+        "unit_measure": "625 g",
+        "discount": "0",
+        "price":"20.50",
+        "price_before": "20.50",
+        "sold_by": "Grocery",
+        "description": "Delicious mixed pickled in Wadi Food vacuum-sealed package. Contains high-quality mixed pickled vegetables as onions lemon, carrot,radish and green olives. Available in the supermarket to make your meal more delicious and tasty.",
+        "more_description": [
+            "Vacuum-sealed packaging.",
+            "Egyptian meal essential.",
+            "Refrigerate after opening.",
+            "Delicious and tasty."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Black-Olives-625g",
+        "title": "Black Olives, 625g",
+        "category": "Pickles",
+        "unit_measure": "625 g",
+        "discount": "0",
+        "price":"30.95",
+        "price_before": "30.95",
+        "sold_by": "Grocery",
+        "description": "Delicious olives made with real, simple ingredients for an unforgettable flavor. Ripe olives are harvested and cured in vinegar, salt, and spices to be ready for you to use you can get from Spinneys supermarket, it's perfect for pizza, salads, and sandwiches.",
+        "more_description": [
+            "Black ripe olives.",
+            "Smooth and meaty.",
+            "No artificial colors or flavors."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Natural-Green-Olives-1kg",
+        "title": "Natural Green Olives, 1kg",
+        "category": "Pickles",
+        "unit_measure": "1 kg",
+        "discount": "0",
+        "price":"35.95",
+        "price_before": "35.95",
+        "sold_by": "Grocery",
+        "description": "Natural Green Olives jar offers whole green olives cured in vinegar, salt, and spices. They are paired perfectly with various dishes, adding a tangy taste. You can order it online from Spinneys supermarket.",
+        "more_description": [
+            "High-quality olives.",
+            "Keep refrigerated after opening.",
+            "Store in a cool, dry place."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Pickled-Lemons-625g",
+        "title": "Pickled Lemons, 625g",
+        "category": "Pickles",
+        "unit_measure": "625 g",
+        "discount": "0",
+        "price":"23.95",
+        "price_before": "23.95",
+        "sold_by": "Grocery",
+        "description": "Pickled Lemons are handpicked and cured in vinegar, salt, garlic, and spices. They are ready to be eaten with various dishes and add an appetizing, tangy taste to your food. You can order it online from Spinneys supermarket.",
+        "more_description": [
+            "High-quality olives.",
+            "Keep refrigerated after opening.",
+            "Store in a cool, dry place."
+        ],
+        "images": [
+            "01.jpg"
+        ]
+    },
+    {
+        "id":"Roasted-Almonds-By-Weight",
+        "title": "Roasted Almonds, By Weight",
+        "category": "Herbs-and-Spices",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"53.99",
+        "price_before": "53.99",
+        "sold_by": "Grocery",
+        "description": "Roasted Almonds.",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Walnut-By-Weight-Kg",
+        "title": "Walnut By Weight, Kg",
+        "category": "Herbs-and-Spices",
+        "unit_measure": null,
+        "discount": "19",
+        "price":"22.44",
+        "price_before": "27.49",
+        "sold_by": "Grocery",
+        "description": "Walnut By Weight, Kg",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
+    },
+    {
+        "id":"Dried-Apricot-Jumbo-By-Weight",
+        "title": "Dried Apricot, Jumbo, By Weight",
+        "category": "Herbs-and-Spices",
+        "unit_measure": null,
+        "discount": "0",
+        "price":"54.99",
+        "price_before": "54.99",
+        "sold_by": "Grocery",
+        "description": "Dried Apricot, Jumbo",
+        "more_description": [],
+        "images": [
+            "01.jpeg"
+        ]
     }
 ]
